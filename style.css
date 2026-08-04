@@ -28,6 +28,14 @@ header {
     margin-bottom: 8rem;
 }
 
+main {
+    margin-bottom: 4rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
 h1 {
     font-size: clamp(4rem, 14vw, 7.5rem);
     font-weight: 500;
@@ -46,6 +54,10 @@ h3 {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 0.75rem;
+}
+
+p {
+    margin-bottom: 1.15rem;
 }
 
 .lhs-half {
