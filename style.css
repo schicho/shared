@@ -81,6 +81,10 @@ nav ul {
         margin-bottom: 8rem;
     }
 
+    h1 {
+        font-size: clamp(3rem, 11vw, 5rem);
+    }
+
     .lhs-half {
         max-width: 80%;
     }
@@ -95,6 +99,10 @@ nav ul {
     header {
         margin-top: 1rem;
         margin-bottom: 5rem;
+    }
+
+    h1 {
+        font-size: clamp(2.5rem, 12vw, 4rem);
     }
 
     .lhs-half {
