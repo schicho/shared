@@ -23,6 +23,11 @@ body {
     margin: 0 auto;
 }
 
+::selection {
+  color: #fafafa;
+  background: #191919;
+}
+
 header {
     margin-top: 4rem;
     margin-bottom: 8rem;
