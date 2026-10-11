@@ -38,7 +38,7 @@ main {
 }
 
 section {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 h1 {
@@ -83,10 +83,6 @@ a {
 
 a:hover {
     border-bottom: 1px solid #191919;
-}
-
-nav {
-    margin-top: 4rem;
 }
 
 nav ul {
