@@ -53,21 +53,21 @@ section {
 
 h1 {
     font-size: clamp(4rem, 14vw, 7.5rem);
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.1;
     margin-bottom: 0;
 }
 
 h2 {
     font-size: clamp(1.25rem, 3vw, 1.4rem);
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.2;
     margin-bottom: 0.9rem;
 }
 
 h3 {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 0.75rem;
 }
 
